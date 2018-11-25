@@ -3,6 +3,7 @@
 import re
 import resources
 import os
+import sys
 from libs.ustr import ustr
 try:
     from PyQt5.QtCore import *
